@@ -1,6 +1,6 @@
 {
   "name": "alicloud-fc-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,8 @@
   "author": "sqlwwx <wwx@wuweixing.com> (http://wiki.lab.wuweixing.com)",
   "license": "MIT",
   "dependencies": {
-    "debug": "^4.1.1",
-    "glob": "^7.1.6",
-    "js-yaml": "^3.13.1",
-    "lodash": "^4.17.15",
-    "yaml": "^1.8.2"
+    "debug": "^4",
+    "js-yaml": "^3",
+    "lodash": "^4"
   }
 }
